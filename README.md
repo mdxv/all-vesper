@@ -1,2 +1,2 @@
-# all-vesper
+# vespering
 Ports of Vesper VSCode theme and more!
